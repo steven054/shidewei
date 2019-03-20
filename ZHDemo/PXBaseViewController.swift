@@ -25,7 +25,7 @@ class PXBaseViewController: UIViewController {
         showNavigationBarBottomLineView(isShow: false)
 
         adaptationX()
-        self.view.backgroundColor = UIColor.red
+        self.view.backgroundColor = UIColor.yellow
     }
     
     func adaptationX() {
